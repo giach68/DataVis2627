@@ -1,0 +1,12 @@
+numpy>=2.0,<3
+matplotlib>=3.9
+nbformat
+pandas
+plotly
+geopandas
+shapely
+requests
+folium
+pydicom
+opencv-python
+scikit-image
